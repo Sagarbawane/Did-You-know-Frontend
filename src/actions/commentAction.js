@@ -37,7 +37,7 @@ export const StartAddComment = (formData) => {
           Swal.fire({
             icon: "error",
             title: "Oops...",
-            text: "Length of comment is less than expectation",
+            text: "somthing goes wrong",
           });
         } else {
           const comment = response.data;
