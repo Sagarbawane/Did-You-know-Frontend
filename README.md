@@ -23,7 +23,7 @@ The code in this repository covers frond-end of this project.
  # Signup and SignIn
  # CRUD with facts
  * Facts
-  - create fact with name,type,title,description,imageLink .
+   - create fact with name,type,title,description,imageLink .
 * addFact
   - Create a new Facts, with above feild.
 * editFact
