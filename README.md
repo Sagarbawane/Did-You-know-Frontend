@@ -17,7 +17,7 @@ This is front-end of DID-YOU-KNOW app.This app provide most stunning facts which
 11. sweetalert2
 
 # Usage
- #Signup and SignIn
+ # Signup and SignIn
  # CRUD with facts
  * Facts
   - create fact with name,type,title,description,imageLink .
