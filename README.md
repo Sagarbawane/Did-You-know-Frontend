@@ -2,6 +2,9 @@
  # Overview
 
 This is front-end of DID-YOU-KNOW app.This app provide most stunning facts which is not heard by anyone.Their are section on the basics of which this facts are separated i.e technical,interesting ,innovational ,inspirational .User can read this facts and their details .He/she can create their own blog and also can comment on each other's blog.
+The code in this repository covers frond-end of this project.
+
+
 
 # Dependencies/Packages
 1. axios
