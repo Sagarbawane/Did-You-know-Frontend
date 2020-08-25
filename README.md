@@ -17,6 +17,25 @@ This is front-end of DID-YOU-KNOW app.This app provide most stunning facts which
 11. sweetalert2
 
 # Usage
+ #Signup and SignIn
  # CRUD with facts
+ * Facts
+  - create fact with name,type,title,description,imageLink .
+* addFact
+  - Create a new Facts, with above feild.
+* editFact
+  - Change the details, name, remove/add Facts.
+* Fact Details
+  - View the details of a particular Fact.
+* delete
+  - Delete the Fact.
+  
+ # CRUD with comment
+ * addComment
+  - Add  new Comment, with comment above feild.
+* delete
+  - Delete the Comment.  
+# Author
+Sagar Bawane
 
 
