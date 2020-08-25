@@ -32,7 +32,7 @@ This is front-end of DID-YOU-KNOW app.This app provide most stunning facts which
   
  # CRUD with comment
  * addComment
-  - Add  new Comment, with comment above feild.
+   - Add  new Comment, with comment above feild.
 * delete
   - Delete the Comment.  
 # Author
